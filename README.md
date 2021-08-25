@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello World.
+
+I am …
+
+- 🎓 Proud Longhorn from the **UT Austin** '22 🤘
+- 👨‍💻 Former Front-end Engineer Intern **@ [SHEIN](https://github.com/sheinsight)**
+- 👨‍💻 Former Front-end Developer **@ [Hokdo](https://github.com/hokdo)**
+
 <!--
 **alexkuang0/alexkuang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
