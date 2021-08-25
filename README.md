@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello World.
+### Hello World 👋
 
 I am …
 
