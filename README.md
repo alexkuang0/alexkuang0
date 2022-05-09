@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-My name is Ning "Alex" Kuang (匡宁).
+My name is Ning "Alex" Kuang (<ruby>匡宁 <rp>(</rp><rt>kuāng níng</rt><rp>)</rp></ruby>).
 
 I am …
 
