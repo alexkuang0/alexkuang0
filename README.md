@@ -4,7 +4,7 @@ My name is Ning "Alex" Kuang (<ruby>匡宁 <rp>(</rp><rt>kuāng níng</rt><rp>)<
 
 I am …
 
-- 🎓 Proud Longhorn from **UT Austin** '22 🤘
+- 🎓 Proud Longhorn from **UT Austin** '23 🤘
 - 👨‍💻 Former Front-end Engineer Intern **@ [SHEIN](https://github.com/sheinsight)**
 - 👨‍💻 Former Front-end Developer **@ [Hokdo](https://github.com/hokdo)**
 
